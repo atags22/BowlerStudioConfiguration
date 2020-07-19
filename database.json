@@ -1,6 +1,11 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
+      "SimulatePhysics.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.25.2",
     "fontsize": 12.0,
